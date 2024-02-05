@@ -176,7 +176,7 @@ body {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*===Images==*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -188,6 +188,7 @@ body {
 .social-media-marketing img {
     max-height: 200px;
 }
+/*===Links==*/
 a {
     text-decoration: none;
     color: #ffffff;
